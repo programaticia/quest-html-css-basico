@@ -5,6 +5,7 @@ body{
 table{
     color: white;
 }
+
 .moda-cabecalho th{
     background-color: #bb86fc;
     padding: 10px;
@@ -14,6 +15,7 @@ table{
     background-color: #00c4b4;
     padding: 10px;
 }
+
 td{
     background-color: #424250;
     padding: 10px;
